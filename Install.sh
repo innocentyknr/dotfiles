@@ -7,6 +7,6 @@ ln -sf ~/dotfiles/syntax ~/.vim
 ln -sf ~/dotfiles/bundle ~/.vim
 ln -sf ~/dotfiles/after ~/.vim
 ln -sf ~/dotfiles/.xmodmap ~/.xmodmap
-ln -sf ~/dotfiles/.xmonad /.xmonad
+ln -sf ~/dotfiles/.xmonad ~/.xmonad
 
 
